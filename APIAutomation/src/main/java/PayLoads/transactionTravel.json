@@ -1,0 +1,27 @@
+{
+  "data": {
+    "productCode": "travel",
+    "insurerCode": "RSA",
+    "proposalId": "669f7bc2ea2889662d683ebb",
+    "referenceId": "AHCY5CXOY6K",
+    "status":"SUCCESS",
+    "transactionId":"Order_ABCDEF",
+    "brokerName": "",
+    "currency": "",
+    "amount": "",
+    "channel": "",
+    "ftTransactionID ": "",
+    "modeOfPayment": "",
+    "insurerName": "",
+    "customerCIN": "",
+    "transactionStatus": "SUCCESS",
+    "insuranceProviderAccNumber": "",
+    "premiumDiscount": "",
+    "promoCode": "",
+    "premiumType": "",
+    "errorResponseMessages": "" ,
+    "premiumDate": "",
+    "transactionNarration": "",
+    "fabSerialNumber": "FAB/RSA/123/HOLIDAY/002"
+  }
+}

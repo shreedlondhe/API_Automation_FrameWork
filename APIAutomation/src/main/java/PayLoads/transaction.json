@@ -1,0 +1,30 @@
+{
+  "data": {
+    "productCode": "lifestyle",
+    "insurerCode": "RSA",
+    "referenceId": "AHCOY0E0POJ",
+    "proposalId": "6694b9eca11c8521955bc26e",
+    "transactionId": "Order_ABCsaD88",
+    "brokerName": "",
+    "currency": "AED",
+    "amount": "100",
+    "channel": "",
+    "ftTransactionID": "56djsfdjjsjk",
+    "modeOfPayment": "",
+    "customerCIN": "dsgkdsakjshjsd",
+    "transactionStatus": "SUCCESS",
+    "insuranceProviderAccNumber": "",
+    "premiumDiscount": "",
+    "promoCode": "",
+    "premiumType": "",
+    "errorResponseMessages": "",
+    "premiumDate": "",
+    "transactionNarration": "dksghgsdjkk",
+    "policyNumber": "",
+    "debitNoteNumber": "",
+    "creditNoteNumber": "",
+    "casaAccountNumber": "",
+    "creditCardNumber": "",
+    "fabSerialNumber": "TZOHOONBOTIOFUYYI"
+  }
+}

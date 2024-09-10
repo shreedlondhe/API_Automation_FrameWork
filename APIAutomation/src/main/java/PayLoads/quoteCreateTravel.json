@@ -1,0 +1,167 @@
+{
+  "data": {
+    "productCode":"travel",
+    "planCode": "EXECUTIVE",
+    "businessType": "NEW",
+    "CID": "kjs432jhr",
+    "premiumRequest": {
+      "riskInsured": {
+        "tripStartDate": "10/05/2025",
+        "tripEndDate": "11/05/2025",
+        "destinationCountryCode": "EXC_USA_CANADA",
+        "productCategoryType":"OTC",
+        "insuredMembers": [
+          {
+            "travellerType":"MAIN",
+            "type": "SELF",
+            "dob": "31/01/1977",
+            "name": "John Doe",
+            "mobileCountryCode": "+971",
+            "mobile": "1234567890",
+            "email": "john.doe@xyz.com",
+            "gender": "MALE",
+            "nationality": "Emirati",
+            "emirateId": "abc124ysh",
+            "emirateIdExpiryDate": "01/01/2025",
+            "discounts": [
+              {
+                "code": "MEDEX_DISC",
+                "isEnabled": false
+              },
+              {
+                "code": "BAGGAGE_DISC",
+                "isEnabled": false
+              }
+            ],
+            "loadings": [
+              {
+                "code": "WINTER_SPORT",
+                "isEnabled": true
+              }
+            ]
+          },
+          {
+            "type": "SPOUSE",
+            "dob": "11/02/1980",
+            "name": "Jane Doe",
+            "mobileCountryCode": "+12",
+            "mobile": "1234567890",
+            "email": "john.doe@xyz.com",
+            "gender": "FEMALE",
+            "nationality": "Emirati",
+            "discounts": [
+              {
+                "code": "MEDEX_DISC",
+                "isEnabled": false
+              },
+              {
+                "code": "BAGGAGE_DISC",
+                "isEnabled": false
+              }
+            ],
+            "loadings": [
+              {
+                "code": "WINTER_SPORT",
+                "isEnabled": true
+              }
+            ]
+          },
+          {
+            "type": "SPOUSE",
+            "dob": "01/01/2012",
+            "name": "Jane Doe",
+            "mobileCountryCode": "+12",
+            "mobile": "1234567890",
+            "email": "john.doe@xyz.com",
+            "gender": "MALE",
+            "nationality": "Emirati",
+            "emirateId": "abc124ysh",
+            "emirateIdExpiryDate": "01/01/2025",
+            "discounts": [
+              {
+                "code": "MEDEX_DISC",
+                "isEnabled": false
+              },
+              {
+                "code": "BAGGAGE_DISC",
+                "isEnabled": false
+              }
+            ],
+            "loadings": [
+              {
+                "code": "WINTER_SPORT",
+                "isEnabled": true
+              }
+            ]
+          },
+          {
+            "type": "CHILD",
+            "dob": "01/01/2002",
+            "name": "blah Doe",
+            "mobileCountryCode": "+12",
+            "mobile": "1234567890",
+            "email": "john.doe@xyz.com",
+            "gender": "FEMALE",
+            "nationality": "Emirati",
+            "emirateId": "abc124ysh",
+            "emirateIdExpiryDate": "01/01/2025",
+            "discounts": [
+              {
+                "code": "MEDEX_DISC",
+                "isEnabled": false
+              },
+              {
+                "code": "BAGGAGE_DISC",
+                "isEnabled": false
+              }
+            ],
+            "loadings": [
+              {
+                "code": "WINTER_SPORT",
+                "isEnabled": true
+              }
+            ]
+          },
+          {
+            "type": "OTHERS",
+            "dob": "01/01/1952",
+            "name": "blah Doe",
+            "mobileCountryCode": "+12",
+            "mobile": "1234567890",
+            "email": "john.doe@xyz.com",
+            "gender": "FEMALE",
+            "nationality": "Emirati",
+            "emirateId": "abc124ysh",
+            "emirateIdExpiryDate": "01/01/2025",
+            "discounts": [
+              {
+                "code": "MEDEX_DISC",
+                "isEnabled": false
+              },
+              {
+                "code": "BAGGAGE_DISC",
+                "isEnabled": false
+              }
+            ],
+            "loadings": [
+              {
+                "code": "WINTER_SPORT",
+                "isEnabled": true
+              }
+            ]
+          }
+        ]
+      },
+      "addOnCovers": [
+        {
+          "code": "CRUISE_COVER",
+          "isEnabled": true
+        },
+        {
+          "code": "TERRORISM",
+          "isEnabled": false
+        }
+      ]
+    }
+  }
+}

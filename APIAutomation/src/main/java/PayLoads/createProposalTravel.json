@@ -1,0 +1,52 @@
+{
+  "data": {
+    "premiumResultId": "669f78cbf2e72578a2308aa4",
+    "referenceId": "AHCY5CXOY6K",
+    "payMode": "ONLINE",
+    "insurerCode": "RSA",
+    "productCode": "travel",
+    "personalDetails": {
+      "title": "Mr",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "rohan.ashra@turtlemint.com",
+      "mobile": "699912345",
+      "dob": "01/01/1992",
+      "nationality": "INDIAN",
+      "relationship": "SELF",
+      "emiratesIdNumber": "",
+      "emiratesIdNumberExpiry": ""
+    },
+    "registeredAddress": {
+      "city": "q",
+      "pincode": "110017",
+      "address1": " wq",
+      "address2": "wqe",
+      "poBoxNumber": ""
+    },
+    "otherDetails": {
+      "tripStartDate": "",
+      "tripEndDate": "",
+      "otherTravellers": [
+        {
+          "title": "MR ",
+          "firstName": "john",
+          "lastName": "qwr",
+          "dob": "01/01/1992",
+          "relationship": "BROTHER",
+          "emiratesIdNumber": "",
+          "emiratesIdNumberExpiry": ""
+        },
+        {
+          "title": "MR ",
+          "firstName": "James",
+          "lastName": "Doe",
+          "dob": "01/01/1992",
+          "relationship": "SON",
+          "emiratesIdNumber": "",
+          "emiratesIdNumberExpiry": ""
+        }
+      ]
+    }
+  }
+}

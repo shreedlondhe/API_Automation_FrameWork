@@ -1,0 +1,47 @@
+{
+  "data": {
+    "referenceId": "AHCOY0E0POJ",
+    "premiumResultId": "6694b9590b24b62c28dfb5b2",
+    "payMode": "ONLINE",
+    "insurerCode": "RSA",
+    "productCode": "lifestyle",
+    "insuredMembers": [
+      {
+        "nationality": "Emirati",
+        "name": "Atul Singh",
+        "email": "atul.singh1@turtlemint.com",
+        "dob": "06/04/2002",
+        "type": "SELF",
+        "alternateEmail": "atul.singh@turtlemint.com",
+        "beneficiaries": [
+          {
+            "name": "John doe",
+            "relation": "SON",
+            "sharePercentage": 10
+          },
+          {
+            "name": "John Doe one",
+            "relation": "FATHER",
+            "sharePercentage": 90
+          }
+        ]
+      }
+    ],
+    "personalDetails": {
+      "title": "Mr",
+      "firstName": "personal",
+      "lastName": "name",
+      "email": "jhonnn.doe@eccc.com",
+      "mobile": "98765432109988999",
+      "mobileCountryCode": "+971",
+      "dob": "01/01/2000"
+    },
+    "registeredAddress": {
+      "city": "pune",
+      "pincode": "987009",
+      "address1": "Nagras Road flat number 5",
+      "address2": "i"
+    },
+    "otherDetails": {}
+  }
+}

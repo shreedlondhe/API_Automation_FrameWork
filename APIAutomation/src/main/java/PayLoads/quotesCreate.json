@@ -1,0 +1,31 @@
+{
+  "data": {
+    "businessType": "NEW",
+    "productCode": "lifestyle",
+    "planCode": "GOLD",
+    "premiumRequest": {
+      "riskInsured": {
+        "insuredMembers": [
+          {
+            "nationality": "Emirati",
+            "name": "Insured member name",
+            "email": "atul.singh1@turtlemint.com",
+            "dob": "06/04/2002",
+            "beneficiaries": [
+              {
+                "name": "ee",
+                "relation": "SON",
+                "sharePercentage": 10
+              },
+              {
+                "name": "John Doe",
+                "relation": "FATHER",
+                "sharePercentage": 90
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
